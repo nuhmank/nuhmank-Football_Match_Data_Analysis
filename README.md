@@ -62,11 +62,7 @@ The goal of this project is to use machine learning and visual analytics to pred
 ✅ Conclusion  
 This project demonstrates how machine learning, combined with data visualization, can effectively predict football match results and offer actionable insights. The use of EDA, SMOTE balancing, and ensemble models like Random Forest and XGBoost ensures accurate and interpretable predictions. The Power BI dashboard enhances this by delivering visual clarity and strategic insight.
 
-📂 Resources  
-- **Dataset**: [`England 2 CSV.csv`]  
-- **ML Notebook**: `Football_Match_Outcome_Prediction_1.ipynb`  
-- **Power BI Dashboard**: [`Download Power BI File`](#)  
-- **Project Slides**: `Untitled presentation.pptx`  
+
 
 ---
 
