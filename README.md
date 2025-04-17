@@ -5,7 +5,7 @@
 The goal of this project is to use machine learning and visual analytics to predict the outcome of football matches (Win, Draw, Loss) and uncover key patterns in team performance using historical match data. The results support better strategic planning for analysts, coaches, and enthusiasts.
 
 📚 Data Source & Description  
-- **Source**: [Kaggle Football Match Dataset](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)  
+- **Source**: [Kaggle Football Match Dataset] 
 - **Type**: Structured tabular match data  
 - **Format**: CSV (`England 2 CSV.csv`)  
 - **Size**: 11,351 rows × 25 columns  
@@ -63,7 +63,7 @@ The goal of this project is to use machine learning and visual analytics to pred
 This project demonstrates how machine learning, combined with data visualization, can effectively predict football match results and offer actionable insights. The use of EDA, SMOTE balancing, and ensemble models like Random Forest and XGBoost ensures accurate and interpretable predictions. The Power BI dashboard enhances this by delivering visual clarity and strategic insight.
 
 📂 Resources  
-- **Dataset**: [`England 2 CSV.csv`](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)  
+- **Dataset**: [`England 2 CSV.csv`]  
 - **ML Notebook**: `Football_Match_Outcome_Prediction_1.ipynb`  
 - **Power BI Dashboard**: [`Download Power BI File`](#)  
 - **Project Slides**: `Untitled presentation.pptx`  
